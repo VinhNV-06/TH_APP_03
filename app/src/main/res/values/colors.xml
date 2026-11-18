@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="teal_primary">#00796B</color>
+    <color name="teal_primary_dark">#00695C</color>
+    <color name="bg_gray">#F5F7F8</color>
+    <color name="red_error">#D32F2F</color>
+    <color name="red_delete">#D32F2F</color>
+
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+
+    <color name="orange_reminder_bg">#FFE0B2</color>
+    <color name="orange_reminder_text">#E65100</color>
+
+    <color name="gray_no_reminder_bg">#E0E0E0</color>
+    <color name="gray_no_reminder_text">#616161</color>
+
+    <color name="card_border">#E0E0E0</color>
+</resources>

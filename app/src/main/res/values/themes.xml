@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.THAPP" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/teal_primary</item>
+        <item name="colorPrimaryDark">@color/teal_primary_dark</item>
+        <item name="colorSecondary">@color/teal_primary</item>
+        <item name="android:statusBarColor">@color/teal_primary_dark</item>
+        <item name="android:windowBackground">@color/bg_gray</item>
+    </style>
+
+    <style name="Theme.THAPP" parent="Base.Theme.THAPP" />
+</resources>
